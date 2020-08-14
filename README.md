@@ -12,7 +12,7 @@ By this application the management/availability of student result & details woul
 to the students through common noticeboard, result of students is stored in database according to the year of study.
 Provisions are made to view the result of passed out batches also.
 
-**[View project report](Project%20Report%20-%20College%20management%20system.pdf)**
+**[View project report](https://github.com/tanaydpatel/college-management-system/raw/master/Project%20Report%20-%20College%20management%20system.pdf)**
 
 ---
 
@@ -62,7 +62,7 @@ Entry on noticeboard is automatically deleted after 30 days. This is taken care 
 
 **Table format in database** 
 
-*Detailed description of database table structure can be found in **[project report here](Project%20Report%20-%20College%20management%20system.pdf)**.*
+*Detailed description of database table structure can be found in **[project report here](https://github.com/tanaydpatel/college-management-system/raw/master/Project%20Report%20-%20College%20management%20system.pdf)**.*
 
 Example *Student login credentials table*:
 
@@ -90,7 +90,7 @@ Example *Student login credentials table*:
 *[Video of working project](FinalProject-Screenshots&Video/college-management-system.mp4).*
 
 
-**[View project report](Project%20Report%20-%20College%20management%20system.pdf)**
+**[View project report](https://github.com/tanaydpatel/college-management-system/raw/master/Project%20Report%20-%20College%20management%20system.pdf)**
 
 ---
   ![](FinalProject-Screenshots&Video/welcome-page.jpg)
