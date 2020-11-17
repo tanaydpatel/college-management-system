@@ -48,7 +48,7 @@ Provisions are made to view the result of passed out batches also.
   - **View** activate a student account OR reject the account.
   - **View** details of all the teachers.
 
-**NoticeBoard**
+**NoticeBoard **
 
 Entry on noticeboard is automatically deleted after 30 days. This is taken care of by triggers in the MySQL database which runs when a noticeboard is accessed.
 
