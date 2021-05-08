@@ -87,7 +87,7 @@ Example *Student login credentials table*:
 **[Snapshot from the project](FinalProject-Screenshots&Video/) can be found here**
 
 
-*[Video of working project](FinalProject-Screenshots&Video/college-management-system.mp4).*
+*[Video of working project](https://www.youtube.com/watch?v=xBjEkmvYMow).*
 
 
 **[View project report](https://github.com/tanaydpatel/college-management-system/raw/master/Project%20Report%20-%20College%20management%20system.pdf)**
