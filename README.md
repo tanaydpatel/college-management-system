@@ -13,7 +13,7 @@ to the students through common noticeboard, result of students is stored in data
 Provisions are made to view the result of passed out batches also.
 
 **[View project report](https://github.com/tanaydpatel/college-management-system/raw/master/Project%20Report%20-%20College%20management%20system.pdf)**
-
+**[View Project working](https://youtube.com/watch?v=xBjEkmvYMow)
 ---
 
 ## Detailed description of working
